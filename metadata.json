@@ -1,0 +1,6 @@
+{
+  "name": "Duet — Clinic Owner Dashboard",
+  "description": "Internal management system for clinic owners and Duet operations staff covering revenue, clinics, billing & coding, NP onboarding, and payer contracts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
